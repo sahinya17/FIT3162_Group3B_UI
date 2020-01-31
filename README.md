@@ -51,15 +51,16 @@ For further details and clarification for installing R and R studio for both Mac
 
 **Running the interface**
 
-Once the prerequisites installed, download the 2 files in 
-
-**Coding tests**
-
-write
+1. Once the prerequisites installed, download the 2 files namely 'LaptopsTrainingDataAttributes.csv' and 'ScorePrediction.R' from 'ScorePrediction_UI' folder. 
+2. Save the two files in the same directory
+3. Open R studio, go to File ->  Open File.. Browse through your documents and click on 'ScorePrediction.R'
+4. Click on Run
+5. The console will ask for user input 
 
 **Built With**
 
-write
+- Pycharm - Python IDE for developers
+- Github - Version control
 
 ###### Authors
 Ishfak Bin Munsur (27467058)
