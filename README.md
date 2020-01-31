@@ -62,8 +62,6 @@ For further details and clarification for installing R and R studio for both Mac
 - Pycharm - Python IDE for developers
 - Github - Version control
 
-
-
 ###### Authors
 Ishfak Bin Munsur (27467058)
 
