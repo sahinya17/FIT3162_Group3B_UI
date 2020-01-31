@@ -34,19 +34,24 @@ The objective of this user interface is to predict the score of a reddit post ev
 
 **Getting Started**
 
-write
+The instructions below will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 **Prerequisites**
 
-write
+1. R for Windows/Mac
+2. RStudio, integrated development environment for R
 
 **Installing**
 
-write
+Install R studio for Windows/Mac OS, download the RStudio Desktop version on https://rstudio.com/products/rstudio/download/
+
+Install R for Windows on https://cran.r-project.org/bin/windows/base/ and for Mac OS on https://cran.r-project.org/bin/macosx/
+
+For further details and clarification for installing R and R studio for both Mac and Windows users, go to https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/
 
 **Running the interface**
 
-write
+Once the prerequisites installed, download the 2 files in 
 
 **Coding tests**
 
@@ -58,4 +63,5 @@ write
 
 ###### Authors
 Ishfak Bin Munsur (27467058)
+
 Yoveena Vencatasamy (29019834)
