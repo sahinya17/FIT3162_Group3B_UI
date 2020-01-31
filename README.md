@@ -30,7 +30,7 @@ write
 write
 
 ## Score prediction command based interface
-One Paragraph of user interface
+The objective of this user interface is to predict the score of a post even before getting the upvotes
 
 **Getting Started**
 
