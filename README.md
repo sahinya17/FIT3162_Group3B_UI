@@ -2,7 +2,7 @@ FIT3162 Group3B UI
 # USER PROFILING AND RECOMMENDATION SYSTEMS USING USER GENERATED CONTENT
 One Paragraph on project description
 
-## User recommender system web application user interface
+## User recommender system web application
 One Paragraph of user interface
 
 **Getting Started**
