@@ -87,8 +87,10 @@ For further details and clarification for installing R and R studio for both Mac
 1. Once the prerequisites installed, download the 2 files namely 'LaptopsTrainingDataAttributes.csv' and 'ScorePrediction.R' from 'ScorePrediction_UI' folder. 
 2. Save the two files in the same directory
 3. Open R studio, go to File ->  Open File.. Browse through your documents and click on 'ScorePrediction.R'
-4. Click on Run
-5. The console will ask for user input 
+4. Go to Session -> Set Working Directory -> To Source File Location
+5. Click on checkbox 'Source on Save'
+6. Click on Run
+7. The console will ask for user input 
 
 **Built With**
 
