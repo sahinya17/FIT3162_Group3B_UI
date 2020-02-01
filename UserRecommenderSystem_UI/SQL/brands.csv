@@ -1,0 +1,37 @@
+id,category_id,name
+1,1,Dell
+2,1,Acer
+3,1,Lenovo
+4,1,Apple
+5,1,Sony
+6,1,Samsung
+7,1,Asus
+8,1,HP
+9,2,Apple
+10,2,Samsung
+11,2,Xiaomi
+12,2,Sony
+13,2,Blackberry
+14,2,Nokia
+15,3,MAC
+16,3,Sephora
+17,3,Urban Decay
+18,3,Kat Von D
+19,3,Fenty
+20,3,Kylie
+21,3,NYX
+22,4,Audi
+23,4,BMW
+24,4,Mercedes
+25,4,Jaguar
+26,4,Land Rover
+27,4,Toyota
+28,4,Nissan
+29,5,Richard Mille
+30,5,Rolex
+31,5,Audemars Piguet
+32,5,Patek Philippe
+33,5,Casio
+34,5,Seiko
+35,5,Michael Kors
+36,5,Fossil
