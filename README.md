@@ -30,18 +30,11 @@ For Windows:
 5. Open a web browser.
 6. On the address bar type localhost and press enter.
 7. From the navigation bar go to phpMyAdmin.
-8. On the left bar click on New. 
-9. Enter the database name as "dedicated_marketing". Click Create.
-10. Click on "dedicated_marketing" on the left bar. On the navigation bar on the top click Import.
-11. Click on Choose file. Navigate to the downloaded source folder and select the folder SQL. Import all the csv file from that folder individually. 
-12. After choosing the csv file, check the following check boxes at the bottom:
-   a) The first line of the file contains the table column names (if this is unchecked, the first line will become part of the       data)
-   b) Do not abort on INSERT error
-   Then select Go.
-13. After all the csv file has been imported go to each table. Navigate to operations from the top navigation bar. Rename each table as the csv file name. 
-14. The database and php environment has been eastablished in your local machine. You can now visit the web application.
-15. On your browser address bar type localhost/nameOfTheSourceFile
-16. Your browser will now open the web application.
+8. Click on import on the top bar. 
+9. Click on choose file to import the file. Navigate to SQL folder in the source folder and select dedicated_marketing.sql.
+10. The database and php environment has been eastablished in your local machine. You can now visit the web application.
+11. On your browser address bar type localhost/nameOfTheSourceFile
+12. Your browser will now open the web application.
 
 For MAC:
 1. Run the XAMPP application.
@@ -54,22 +47,20 @@ For MAC:
 8. Open a web browser.
 9. On the address bar type localhost:8080 and press enter.
 10. From the navigation bar go to phpMyAdmin.
-11. On the left bar click on New. 
-12. Enter the database name as "dedicated_marketing". Click Create.
-13. Click on "dedicated_marketing" on the left bar. On the navigation bar on the top click Import.
-14. Click on Choose file. Navigate to the downloaded source folder and select the folder SQL. Import all the csv file from that folder individually. 
-15. After choosing the csv file, check the following check boxes at the bottom:
-   a) The first line of the file contains the table column names (if this is unchecked, the first line will become part of the       data)
-   b) Do not abort on INSERT error
-   Then select Go.
-16. After all the csv file has been imported go to each table. Navigate to operations from the top navigation bar. Rename each table as the csv file name. 
-17. The database and php environment has been eastablished in your local machine. You can now visit the web application.
-18. On your browser address bar type localhost:8080/nameOfTheSourceFile
-19. Your browser will now open the web application.
+11. Click on import on the top bar. 
+12. Click on choose file to import the file. Navigate to SQL folder in the source folder and select dedicated_marketing.sql.
+13. The database and php environment has been eastablished in your local machine. You can now visit the web application.
+14. On your browser address bar type localhost/nameOfTheSourceFile
+15. Your browser will now open the web application.
+16. The database and php environment has been eastablished in your local machine. You can now visit the web application.
+17. On your browser address bar type localhost:8080/nameOfTheSourceFile
+18. Your browser will now open the web application.
 
 **Built With**
 
-write
+- Visual Studio Code
+- SQL Developer
+- Github
 
 ## Score prediction command based interface
 The objective of this user interface is to predict the score of a reddit post even before getting the upvotes and downvotes from the other Reddit users. It is a command-based interface that allows end-users to key in details related to a post and obtain a score accordingly. The score is classified as 'High', 'Low' and 'neutral' and the information to be entered are as follows: number of comments to the post, ratio of gaps for an author (his activeness), number of posts of the author, sentiment score of the post, the sentiment ratio (postive sentiment: negative sentiment) and score of comments to the post. 
