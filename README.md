@@ -89,7 +89,7 @@ For further details and clarification for installing R and R studio for both Mac
 3. Open R studio, go to File ->  Open File.. Browse through your documents and click on 'ScorePrediction.R'
 4. Go to Session -> Set Working Directory -> To Source File Location
 5. Click on checkbox 'Source on Save'
-6. Click on Run
+6. Press ctrl+S to run
 7. The console will ask for user input 
 
 **Built With**
